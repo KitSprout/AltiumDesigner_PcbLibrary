@@ -1,6 +1,4 @@
 AltiumDesigner_PcbLibrary
 =========================
-* File Name   : Readme.md
-* Author      : Hom19910422
-* Date        : 2013/10/03
-* Description : 
+* Author      : [Hom](https://github.com/Hom19910422)
+* Update      : 2013/10/03
