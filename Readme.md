@@ -1,4 +1,4 @@
 AltiumDesigner_PcbLibrary
 =========================
-* Update : 2014/05/05
-* Version : v0.12
+* Update : 2014/08/10
+* Version : v1.0
