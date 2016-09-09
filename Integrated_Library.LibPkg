@@ -141,6 +141,23 @@ GenerateClassCluster=0
 DocumentUniqueId=REBWVNAC
 
 [Document7]
+DocumentPath=PCB_Connector.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VILDQOBQ
+
+[Document8]
 DocumentPath=PCB_ConnectorFFC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -155,9 +172,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HEGHSTDL
 
-[Document8]
+[Document9]
 DocumentPath=PCB_ConnectorHDR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,23 +190,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MDJAQCES
-
-[Document9]
-DocumentPath=PCB_ConnectorCable.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YGWQCVOB
 
 [Document10]
 DocumentPath=PCB_Oscillator.PcbLib
@@ -393,7 +393,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PGQKIXJH
 
 [Document22]
 DocumentPath=SCH_ConnectorHDR.SchLib
