@@ -8,10 +8,12 @@ AltiumDesigner_PcbLibrary
   
 <img src="https://lh6.googleusercontent.com/-Yn64tjOW7Vo/U-jG4QG0ZGI/AAAAAAAAKM8/2cyZLPPg3cU/s1600/Package.png" />
 
-Mechanical 13 用來繪製元件，與 3D Body。  
-Mechanical 14、Mechanical 15 用來表示上層元件或是下層元件，兩者預設成 Pairs，元件翻面會自動切換。  
-
-v3 版本主要調整內容 :  
-1. 在元件庫中加入更多的資訊，像是封裝、數值... 等等，方便更有效率生成 BOM。  
-2. 使用的字體主要改用 consolas，consolas 字體的每個字元距離固定，表示上比較清楚。  
-3. footprints 中加入 .designator 讓元件自動編號，不需要再手動調整(在 .PcbDoc 裡，透過 CTRL + D -> View Options -> Display Options -> 啟用 Convert Special Strings 後，可以自動轉換成編號)  。
+Mechanical Layer 定義
+---------------------
+<font color=#FF00FF>Mechanical 01</font> : 外型層，用來定義板子外型，即實際的 PCB 外型，<font color=#FF00FF>Color#FF00FF</font>。  
+<font color=#4A86E8>Mechanical 02</font> : 機構層，更為詳細的外型層，包含孔洞位置標示與尺寸測量標記，<font color=#4A86E8>Color#4A86E8</font>。  
+<font color=#F6B26B>Mechanical 04</font> : 感測器軸向層，用來標記加速度計等有感測方向的軸向，<font color=#F6B26B>Color#F6B26B</font>。  
+<font color=#C27BA0>Mechanical 13</font> : 元件外型層，用來繪製元件外型與 3D Body，<font color=#C27BA0>Color#C27BA0</font>。  
+<font color=#00FF00>Mechanical 14</font> : 上層元件標示層，用來表示上層元件位置，識別元件位置用，<font color=#00FF00>Color#00FF00</font>。  
+<font color=#008000>Mechanical 15</font> : 下層元件標示層，用來表示嚇層元件位置，識別元件位置用，<font color=#008000>Color#008000</font>。  
+( <font color=#00FF00>Mechanical 14</font>、<font color=#008000>Mechanical 15</font> 兩者預設成 Pairs，元件翻面會自動切換，沒有自動切換請設定成 Pairs )  
