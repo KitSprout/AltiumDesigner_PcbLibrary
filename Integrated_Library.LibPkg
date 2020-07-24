@@ -106,6 +106,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
+DocumentPath=PCB_Sensor.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YMDTIDRB
+
+[Document6]
 DocumentPath=PCB_USB_Connector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FODEGECT
 
-[Document6]
+[Document7]
 DocumentPath=SCH_Oscillator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNOVYKPG
 
-[Document7]
+[Document8]
 DocumentPath=SCH_Passive.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EXIAKEVC
 
-[Document8]
+[Document9]
+DocumentPath=SCH_Sensor.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GCGTNGOQ
+
+[Document10]
 DocumentPath=SCH_USB_Connector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
