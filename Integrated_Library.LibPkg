@@ -293,6 +293,23 @@ GenerateClassCluster=0
 DocumentUniqueId=NMPEMDBQ
 
 [Document16]
+DocumentPath=SCH_Connector.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PGQKIXJH
+
+[Document17]
 DocumentPath=SCH_Microcontroller.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWLQUBKI
 
-[Document17]
+[Document18]
 DocumentPath=SCH_Module.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GCGTNGOQ
 
-[Document18]
+[Document19]
 DocumentPath=SCH_Oscillator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNOVYKPG
 
-[Document19]
+[Document20]
 DocumentPath=SCH_Passive.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -359,23 +376,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EXIAKEVC
-
-[Document20]
-DocumentPath=SCH_Connector.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PGQKIXJH
 
 [Document21]
 DocumentPath=SCH_Power.SchLib
@@ -395,6 +395,23 @@ GenerateClassCluster=0
 DocumentUniqueId=ULEWKTTR
 
 [Document22]
+DocumentPath=SCH_Radio.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XEEIRJJN
+
+[Document23]
 DocumentPath=SCH_Sensor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GCGTNGOQ
 
-[Document23]
+[Document24]
 DocumentPath=SCH_Switch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSMDKETC
 
-[Document24]
+[Document25]
 DocumentPath=SCH_USB_Connector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
