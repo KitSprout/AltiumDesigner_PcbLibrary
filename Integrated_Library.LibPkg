@@ -123,6 +123,23 @@ GenerateClassCluster=0
 DocumentUniqueId=TNOLPEYP
 
 [Document6]
+DocumentPath=PCB_ConnectorHDR.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MDJAQCES
+
+[Document7]
 DocumentPath=PCB_IntegratedCircuit.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=REBWVNAC
 
-[Document7]
+[Document8]
 DocumentPath=PCB_Module.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YMDTIDRB
 
-[Document8]
+[Document9]
 DocumentPath=PCB_Oscillator.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JBCVJDGE
 
-[Document9]
+[Document10]
 DocumentPath=PCB_PassiveCap.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SDTUNRAN
 
-[Document10]
+[Document11]
 DocumentPath=PCB_PassiveInd.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MNXYCJIP
 
-[Document11]
+[Document12]
 DocumentPath=PCB_PassiveRes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNTIPHPT
 
-[Document12]
+[Document13]
 DocumentPath=PCB_Sensor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YMDTIDRB
 
-[Document13]
+[Document14]
 DocumentPath=PCB_Switch.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GCVVLODU
 
-[Document14]
+[Document15]
 DocumentPath=PCB_USB_Connector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FODEGECT
 
-[Document15]
+[Document16]
 DocumentPath=SCH_Active.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NMPEMDBQ
 
-[Document16]
+[Document17]
 DocumentPath=SCH_Connector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +326,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PGQKIXJH
 
-[Document17]
+[Document18]
+DocumentPath=SCH_ConnectorHDR.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XKNRVPJY
+
+[Document19]
+DocumentPath=SCH_IntegratedCircuit.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YCFPQHBI
+
+[Document20]
 DocumentPath=SCH_Microcontroller.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EWLQUBKI
 
-[Document18]
+[Document21]
 DocumentPath=SCH_Module.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GCGTNGOQ
 
-[Document19]
+[Document22]
 DocumentPath=SCH_Oscillator.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YNOVYKPG
 
-[Document20]
+[Document23]
 DocumentPath=SCH_Passive.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EXIAKEVC
 
-[Document21]
+[Document24]
 DocumentPath=SCH_Power.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ULEWKTTR
 
-[Document22]
+[Document25]
 DocumentPath=SCH_Radio.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XEEIRJJN
 
-[Document23]
+[Document26]
 DocumentPath=SCH_Sensor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -426,9 +477,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GCGTNGOQ
+DocumentUniqueId=CVOTFMVN
 
-[Document24]
+[Document27]
 DocumentPath=SCH_Switch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FSMDKETC
 
-[Document25]
+[Document28]
 DocumentPath=SCH_USB_Connector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
