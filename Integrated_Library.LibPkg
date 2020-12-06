@@ -463,6 +463,23 @@ GenerateClassCluster=0
 DocumentUniqueId=FSMDKETC
 
 [Document26]
+DocumentPath=SCH_Sound.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XEEIRJJN
+
+[Document27]
 DocumentPath=SCH_USB_Connector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
