@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Integrated_Library.LibPkg
+[Project2]
+ProjectPath=..\KSDK\KSDK.PrjPcb
+[Project3]
+ProjectPath=..\KSIMU\KSIMU.PrjPcb
